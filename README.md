@@ -10,6 +10,7 @@
 [참고](https://javabom.tistory.com/70)
 
 ## 진행 현황
+<image src="https://github.com/NaKaLiGoBa/Book-Study/assets/115940366/2982802c-71b0-4af1-9839-79a840713f3b" height=200 />
 
 ### 1주차
 
