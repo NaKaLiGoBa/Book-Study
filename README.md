@@ -10,7 +10,12 @@
 [참고](https://javabom.tistory.com/70)
 
 ## 진행 현황
-<image src="https://github.com/NaKaLiGoBa/Book-Study/assets/115940366/2982802c-71b0-4af1-9839-79a840713f3b" height=200 />
+|구분|이펙티브 자바|모던 자바 인 액션 |
+|---------|--------|--------------|
+|표지|----|<image src="https://github.com/NaKaLiGoBa/Book-Study/assets/115940366/2982802c-71b0-4af1-9839-79a840713f3b" height=200 />|
+|기간|----|23.12.26 ~ |
+
+
 
 ### 1주차
 
